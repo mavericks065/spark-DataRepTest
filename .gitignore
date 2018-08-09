@@ -1,0 +1,7 @@
+test.json/
+metastore_db/*
+project/project/*
+project/target/*
+target/*
+complete-dataset-1.xlsx
+spark-warehouse/*
